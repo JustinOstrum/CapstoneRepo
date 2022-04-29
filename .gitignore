@@ -9,6 +9,17 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+[Ss]ound_Assets/
+2D_Assets/
+3D_Assets/
+[Aa]nimations/
+[Mm]aterials [a]nd [Tt]extures/
+[Pp]refabs/
+[Ss]cenes/
+[Vv]ideo_Assets
+[Tt]extMesh Pro
+[Pp]rojectSettings
+[Pp]ackages
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -46,7 +57,11 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-*.mp4
+*.png
+*.meta
+*.mat
+
+# Due to requirements in the license, the songs used in the game cannot be uploaded publicly in an accessible manner.
 *.pkf
 *.wav
 
